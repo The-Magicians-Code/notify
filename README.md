@@ -30,4 +30,8 @@ Reinit terminal:
 ```
 source ~/.zshrc
 ```
+Try it out:
+```
+notify "your message here"
+```
 Voila!
